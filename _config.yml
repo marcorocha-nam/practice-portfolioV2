@@ -1,0 +1,21 @@
+title: Marco Rocha
+description: Senior commercial leader in global container shipping and logistics.
+logo: /assets/img/logo.png
+show_downloads: false
+baseurl: /620-V2
+url: https://marcorocha-nam.github.io
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+exclude:
+  - docs
+  - script
+  - README.md
+  - LICENSE
+  - REPOSITORY-LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-minimal.gemspec
+  - thumbnail.png
+  - another-page.md
